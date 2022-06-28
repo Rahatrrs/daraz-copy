@@ -70,6 +70,7 @@ body{
     font-size: 30px;
     margin-top: 5px;
     margin-right: 130px;
+    font-weight: 500;
 }
 .white-cart a i:hover{
     color: red;
@@ -114,4 +115,95 @@ body{
 }
 .small-card:hover .link-content h5{
     color: red;
+}
+.flash-nav{
+    background-color: white;
+    height: 70px;
+    border-bottom: 1px solid grey;
+}
+.content{
+    margin-top: 20px;
+}
+.orange{
+    color: rgb(255, 38, 0);
+}
+.timer{
+    margin-left: 80px;
+}
+.timer-dot{
+    color: #f57224;
+    margin-left: 15px;
+}
+.time{
+    background-color: #f57224;
+    font-size: 18px;
+    padding: 8px;
+    color: white;
+    margin-left: 15px;
+}
+.shop-more{
+    height: 45px;
+    width: 120px;
+    padding: 8px;
+    font-size: 14px;
+    border: 2px solid #f57224;
+    color: rgb(255, 38, 0);
+    margin-top: 15px;
+    margin-left: 50px;
+    background-color: #ffffff;
+}
+.line{
+    text-decoration: line-through;
+}
+.card{
+    padding: 8px;
+    border-radius: none;
+    width: 180px;
+}
+.card:hover{
+    box-shadow: 0 0 8px grey !important;
+}
+.card h6{
+    color: black;
+    font-weight: 490;
+}
+.card h5{
+    color: #f57224;
+}
+.card p{
+    color: grey;
+    font-size: 14px;
+}
+.card-container{
+    margin-left: 100px;
+    margin-bottom: 45px;
+}
+.card-quare{
+    height: 150px;
+    width: 150px;
+    justify-items: center;
+}
+.card-quare img{
+    height: 110px;
+    width: 140px;
+    padding: 10px;
+    margin-left: 15px;
+    
+}
+.card-quare h6{
+    text-align: center;
+}
+.cat-cont{
+    margin-bottom: 35px;
+}
+.load-more{
+    height: 45px;
+    width: 300px;
+    padding: 8px;
+    font-size: 18px;
+    border: 2px solid #f57224;
+    color: rgb(255, 38, 0);
+    margin-top: 15px;
+    margin-left: 50px;
+    background-color: #ffffff;
 }
